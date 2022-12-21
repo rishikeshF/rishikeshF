@@ -11,6 +11,9 @@ I am Rishikesh Fulari, prevsiously worked as Machine Learning Engineer and curre
 
 ### 🧰 Personal Projects 🧰
 1. Diabetiec patient readmission rate predictor using Machine Learning
+2. Identifying duplicate questions in forums. [Link](https://huggingface.co/spaces/rishikesh/QuestionPairSimilarityPredictor)
+3. Predicting the engagement a Justin Beiber's tweet would get. [Link](https://huggingface.co/spaces/rishikesh/twitterEngagementPredictor)
+4. Image to speech application for the visually challenged people. [Link](https://huggingface.co/spaces/rishikesh/ImageToSpeech)
 
 ### 🎇 Core Competencies 🎇
 - Python, Tensorflow 
