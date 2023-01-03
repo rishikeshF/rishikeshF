@@ -11,9 +11,10 @@ I am Rishikesh Fulari, am open to work on fascinating AI projects. I have been w
 
 ### 🧰 Personal Projects 🧰
 1. Diabetiec patient readmission rate predictor using Machine Learning
-2. Identifying duplicate questions in forums. [Link](https://huggingface.co/spaces/rishikesh/QuestionPairSimilarityPredictor)
-3. Predicting the engagement a Justin Beiber's tweet would get. [Link](https://huggingface.co/spaces/rishikesh/twitterEngagementPredictor)
-4. Image to speech application for the visually challenged people. [Link](https://huggingface.co/spaces/rishikesh/ImageToSpeech)
+2. Predicting if a free-tier user would convert to a paid-tier user for e-learning platform. [Link](https://huggingface.co/spaces/rishikesh/365DataScience)
+3. Identifying duplicate questions in forums. [Link](https://huggingface.co/spaces/rishikesh/QuestionPairSimilarityPredictor)
+4. Predicting the engagement a Justin Beiber's tweet would get. [Link](https://huggingface.co/spaces/rishikesh/twitterEngagementPredictor)
+5. Image to speech application for the visually challenged people. [Link](https://huggingface.co/spaces/rishikesh/ImageToSpeech)
 
 ### 🎇 Core Competencies 🎇
 - Python, Tensorflow 
