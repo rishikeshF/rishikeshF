@@ -10,11 +10,11 @@ I am Rishikesh Fulari, am open to work on fascinating AI projects. I have been w
 2. Worked on CV project at Celebal Technologies - extracting tables format data from receipts using Detectron
 
 ### 🧰 Personal Projects 🧰
-1. Diabetiec patient readmission rate predictor using Machine Learning
-2. Predicting if a free-tier user would convert to a paid-tier user for e-learning platform. [Link](https://huggingface.co/spaces/rishikesh/365DataScience)
-3. Identifying duplicate questions in forums. [Link](https://huggingface.co/spaces/rishikesh/QuestionPairSimilarityPredictor)
-4. Predicting the engagement a Justin Beiber's tweet would get. [Link](https://huggingface.co/spaces/rishikesh/twitterEngagementPredictor)
-5. Image to speech application for the visually challenged people. [Link](https://huggingface.co/spaces/rishikesh/ImageToSpeech)
+1. Diabetiec patient readmission rate predictor using Machine Learning [Blog](https://medium.com/analytics-vidhya/building-machine-learning-model-to-predict-if-the-patient-will-be-readmitted-within-30-days-2eaed2d3669d)
+2. Predicting if a free-tier user would convert to a paid-tier user for e-learning platform. [demo](https://huggingface.co/spaces/rishikesh/365DataScience) [Blog](https://medium.com/@rishikeshfulari/predicting-if-a-free-tier-user-would-convert-to-a-paid-subscriber-for-365-data-science-e-learning-7a57b2f1c4d1)
+3. Identifying duplicate questions in forums. [demo](https://huggingface.co/spaces/rishikesh/QuestionPairSimilarityPredictor)
+4. Predicting the engagement a Justin Beiber's tweet would get. [demo](https://huggingface.co/spaces/rishikesh/twitterEngagementPredictor)
+5. Image to speech application for the visually challenged people. [demo](https://huggingface.co/spaces/rishikesh/ImageToSpeech)
 
 ### 🎇 Core Competencies 🎇
 - Python, Tensorflow 
@@ -25,7 +25,7 @@ I am Rishikesh Fulari, am open to work on fascinating AI projects. I have been w
 - Deep Learning
 - Machine Learning
 
-### 📩 Connect with me on 📩
+### 📩 Other profiles 📩
 - [LinkedIn](https://www.linkedin.com/in/rishikesh-fulari/)
 - [Medium](https://medium.com/@rishikeshfulari)
 - [Hugging Face](https://huggingface.co/rishikesh)
