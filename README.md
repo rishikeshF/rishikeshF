@@ -27,6 +27,7 @@ I am Rishikesh Fulari, am open to work on fascinating AI projects. I have been w
 ### 📩 Connect with me on 📩
 - [LinkedIn](https://www.linkedin.com/in/rishikesh-fulari/)
 - [Medium](https://medium.com/@rishikeshfulari)
+- [Hugging Face](https://huggingface.co/rishikesh)
 <!--
 **rishikeshF/rishikeshF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
