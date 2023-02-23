@@ -10,17 +10,35 @@ I am Rishikesh Fulari, am open to work on fascinating AI projects. I have been w
 2. Worked on CV project at Celebal Technologies - extracting tables format data from receipts using Detectron
 
 ### 🧰 Personal Projects 🧰
-#### Predicting the readmission rate of diabetic patients using machine learning for better healthcare. [Blog](https://medium.com/analytics-vidhya/building-machine-learning-model-to-predict-if-the-patient-will-be-readmitted-within-30-days-2eaed2d3669d) [code](https://github.com/rishikeshF/Diabetic_patient_readmission_rate_predictor)
+#### Predicting the readmission rate of diabetic patients using machine learning for better healthcare. [blog](https://medium.com/analytics-vidhya/building-machine-learning-model-to-predict-if-the-patient-will-be-readmitted-within-30-days-2eaed2d3669d) [code](https://github.com/rishikeshF/Diabetic_patient_readmission_rate_predictor)
 - Implemented end-to-end Machine Learning pipeline right from data cleaning to model deployment on AWS EC2
 instance, demonstrating full stack machine learning skills.
 - Hospitals in the USA are penalized by the government if the patient is readmitted to the hospital within 30 days.
 Hospitals however have no means of predicting which patient will be readmitted. This project addresses this problem
 using machine learning by predicting which patient is likely to get readmitted within 30 days.
 
-2. Predicting if a free-tier user would convert to a paid-tier user for e-learning platform. [demo](https://huggingface.co/spaces/rishikesh/365DataScience) [Blog](https://medium.com/@rishikeshfulari/predicting-if-a-free-tier-user-would-convert-to-a-paid-subscriber-for-365-data-science-e-learning-7a57b2f1c4d1)
-3. Identifying duplicate questions in forums. [demo](https://huggingface.co/spaces/rishikesh/QuestionPairSimilarityPredictor)
-4. Predicting the engagement a Justin Beiber's tweet would get. [demo](https://huggingface.co/spaces/rishikesh/twitterEngagementPredictor)
-5. Image to speech application for the visually challenged people. [demo](https://huggingface.co/spaces/rishikesh/ImageToSpeech)
+####  Predicting the likelihood of conversion of a free-tier user to a paid one for an Ed-tech company. [blog](https://rishikeshfulari.medium.com/predicting-if-a-free-tier-user-would-convert-to-a-paid-subscriber-for-365-data-science-e-learning-7a57b2f1c4d1)[code](https://github.com/rishikeshF/Diabetic_patient_readmission_rate_predictor)[demo](https://huggingface.co/spaces/rishikesh/ImageToSpeech)
+- Implemented end-to-end machine learning model to predict if the free-tier user would buy the subscription for
+e-learning platform ‘365 data science’ using real world platform analytics data.
+- Data was provided by the Ed-tech platform and the final model was deployed on the Hugging Face Spaces using
+Streamlit as the front end framework.
+
+#### Developed and deployed an application to generate captions for the visually challenged people. [demo](https://huggingface.co/spaces/rishikesh/ImageToSpeech)
+- Implemented deep learning model using pretrained models from Hugging face to generate captions for images which
+are further fed as input to text-to-speech API for reading aloud the captions. This project was made to help differently
+abled people browse the image content on the internet
+
+#### Identifying duplicate questions using machine learning [demo](https://huggingface.co/spaces/rishikesh/QuestionPairSimilarityPredictor)
+- Implemented end-to-end machine learning model to predict if given two questions have the same semantic meaning.
+- Used Quora question pair similarity dataset and embeddings from pretrained model for detecting semantic similarity.
+Forums and QnA sections are often filled with duplicate entries, this project was aimed at finding those duplicate
+questions using the recent advances in natural language processing domain like embeddings from pretrained models.
+
+#### Predicting the user engagement for celebrity tweets. [demo](https://huggingface.co/spaces/rishikesh/twitterEngagementPredictor)
+- Developed and deployed a machine learning model that predicts the user engagement - the number of retweets that
+particular tweet would get based on the semantic meaning and timestamp of the tweet.
+- Scrapped twitter data from Justin Bieber’s twitter account and used it as the training data to predict the number of
+retweets his tweet would get.
 
 ### 🎇 Core Competencies 🎇
 - Python, Tensorflow 
