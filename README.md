@@ -10,7 +10,12 @@ I am Rishikesh Fulari, am open to work on fascinating AI projects. I have been w
 2. Worked on CV project at Celebal Technologies - extracting tables format data from receipts using Detectron
 
 ### 🧰 Personal Projects 🧰
-1. Diabetiec patient readmission rate predictor using Machine Learning [Blog](https://medium.com/analytics-vidhya/building-machine-learning-model-to-predict-if-the-patient-will-be-readmitted-within-30-days-2eaed2d3669d)
+## Predicting the readmission rate of diabetic patients using machine learning for better healthcare.
+- Implemented end-to-end Machine Learning pipeline right from data cleaning to model deployment on AWS EC2
+instance, demonstrating full stack machine learning skills.
+- Hospitals in the USA are penalized by the government if the patient is readmitted to the hospital within 30 days.
+Hospitals however have no means of predicting which patient will be readmitted. This project a [Blog](https://medium.com/analytics-vidhya/building-machine-learning-model-to-predict-if-the-patient-will-be-readmitted-within-30-days-2eaed2d3669d) [code](https://github.com/rishikeshF/Diabetic_patient_readmission_rate_predictor)
+
 2. Predicting if a free-tier user would convert to a paid-tier user for e-learning platform. [demo](https://huggingface.co/spaces/rishikesh/365DataScience) [Blog](https://medium.com/@rishikeshfulari/predicting-if-a-free-tier-user-would-convert-to-a-paid-subscriber-for-365-data-science-e-learning-7a57b2f1c4d1)
 3. Identifying duplicate questions in forums. [demo](https://huggingface.co/spaces/rishikesh/QuestionPairSimilarityPredictor)
 4. Predicting the engagement a Justin Beiber's tweet would get. [demo](https://huggingface.co/spaces/rishikesh/twitterEngagementPredictor)
