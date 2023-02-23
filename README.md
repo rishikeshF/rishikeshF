@@ -10,7 +10,7 @@ I am Rishikesh Fulari, am open to work on fascinating AI projects. I have been w
 2. Worked on CV project at Celebal Technologies - extracting tables format data from receipts using Detectron
 
 ### 🧰 Personal Projects 🧰
-## Predicting the readmission rate of diabetic patients using machine learning for better healthcare.
+#### Predicting the readmission rate of diabetic patients using machine learning for better healthcare.
 - Implemented end-to-end Machine Learning pipeline right from data cleaning to model deployment on AWS EC2
 instance, demonstrating full stack machine learning skills.
 - Hospitals in the USA are penalized by the government if the patient is readmitted to the hospital within 30 days.
