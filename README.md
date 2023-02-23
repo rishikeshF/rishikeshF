@@ -17,7 +17,7 @@ instance, demonstrating full stack machine learning skills.
 Hospitals however have no means of predicting which patient will be readmitted. This project addresses this problem
 using machine learning by predicting which patient is likely to get readmitted within 30 days.
 
-#### 2. Predicting the likelihood of conversion of a free-tier user to a paid one for an Ed-tech company. [blog](https://rishikeshfulari.medium.com/predicting-if-a-free-tier-user-would-convert-to-a-paid-subscriber-for-365-data-science-e-learning-7a57b2f1c4d1)[code](https://github.com/rishikeshF/Diabetic_patient_readmission_rate_predictor)[demo](https://huggingface.co/spaces/rishikesh/ImageToSpeech)
+#### 2. Predicting the likelihood of conversion of a free-tier user to a paid one for an Ed-tech company. [blog](https://rishikeshfulari.medium.com/predicting-if-a-free-tier-user-would-convert-to-a-paid-subscriber-for-365-data-science-e-learning-7a57b2f1c4d1) [code](https://github.com/rishikeshF/Diabetic_patient_readmission_rate_predictor) [demo](https://huggingface.co/spaces/rishikesh/ImageToSpeech)
 - Implemented end-to-end machine learning model to predict if the free-tier user would buy the subscription for
 e-learning platform ‘365 data science’ using real world platform analytics data.
 - Data was provided by the Ed-tech platform and the final model was deployed on the Hugging Face Spaces using
