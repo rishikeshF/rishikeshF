@@ -6,8 +6,18 @@ I am Rishikesh Fulari, am open to work on fascinating AI projects. I have been w
 👨‍🎓 Completed Bachelors in Computer Science with distinction, currently pursuing Masters in Computer Science at Purdue University. 
 
 ### 💼 Industry Projects 💼
-1. Worked on NLP project at Crimecheck.ai - creating AI powered search engine for legal domain
-2. Worked on CV project at Celebal Technologies - extracting tables format data from receipts using Detectron
+#### 1. Devised a Named entity recognition system to convert unstructured Indian addresses to structured ones. [product](https://crimecheck.ai/)
+- Indian addresses do not follow any particular structure and therefore suffer from plenty of formatting and spelling
+mistakes. This project aimed at implementing a named entity recognition model to convert those unstructured
+addresses to structured ones.
+- Collected address data from various publicly available sources like OpenStreetMap, government websites, Indian
+postal department, etc. Created a synthetic dataset of 90 million addresses and trained a language model using
+masked language modeling.
+- Further, fine-tuned this model for downstream NLP task of named-entity recognition to identify and label different
+components of the address. This is an industry project and is currently being used by my past employer.
+
+#### 2. Extracting tables format data from receipts using Detectron
+- Finetuned Detectron 2 for extracting tabular data from receipts and other documents. Extracted useful information from documents.
 
 ### 🧰 Personal Projects 🧰
 #### 1. Predicting the readmission rate of diabetic patients using machine learning for better healthcare. [blog](https://medium.com/analytics-vidhya/building-machine-learning-model-to-predict-if-the-patient-will-be-readmitted-within-30-days-2eaed2d3669d) [code](https://github.com/rishikeshF/Diabetic_patient_readmission_rate_predictor)
