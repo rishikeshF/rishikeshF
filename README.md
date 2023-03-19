@@ -2,8 +2,8 @@
 I am Rishikesh Fulari, am open to work on fascinating AI projects. I have been working in NLP domain for a while now, but would love to collaborate on anything relating to ML.
 
 ### 🦸‍ About me 🦸‍♂️
-👨‍🔬 Prevsiously worked as Machine Learning Engineer at CrimeCheck.ai (Bangalore based startup now acquired by Idfy) <br>
-👨‍🎓 Completed Bachelors in Computer Science with distinction, currently pursuing Masters in Computer Science at Purdue University. 
+- Prevsiously worked as Machine Learning Engineer at CrimeCheck.ai (Bangalore based startup now acquired by Idfy) <br>
+- Completed Bachelors in Computer Science with distinction, currently pursuing Masters in Computer Science at Purdue University. 
 
 ### 💼 Industry Projects 💼
 #### 1. Devised a Named entity recognition system to convert unstructured Indian addresses to structured ones. [product](https://crimecheck.ai/)
