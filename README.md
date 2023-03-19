@@ -1,11 +1,11 @@
-### 👋 Hi there 👋
+### 👋 Hi there
 I am Rishikesh Fulari, am open to work on fascinating AI projects. I have been working in NLP domain for a while now, but would love to collaborate on anything relating to ML.
 
-### 🦸‍ About me 🦸‍♂️
+### 🦸‍ About me 
 - Prevsiously worked as Machine Learning Engineer at CrimeCheck.ai (Bangalore based startup now acquired by Idfy) <br>
 - Completed Bachelors in Computer Science with distinction, currently pursuing Masters in Computer Science at Purdue University. 
 
-### 💼 Industry Projects 💼
+### 💼 Industry Projects
 #### 1. Devised a Named entity recognition system to convert unstructured Indian addresses to structured ones. [product](https://crimecheck.ai/)
 - Indian addresses do not follow any particular structure and therefore suffer from plenty of formatting and spelling
 mistakes. This project aimed at implementing a named entity recognition model to convert those unstructured
@@ -19,7 +19,7 @@ components of the address. This is an industry project and is currently being us
 #### 2. Extracting tables format data from receipts using Detectron
 - Finetuned Detectron 2 for extracting tabular data from receipts and other documents. Extracted useful information from documents.
 
-### 🧰 Personal Projects 🧰
+### 🧰 Personal Projects 
 #### 1. Predicting the readmission rate of diabetic patients using machine learning for better healthcare. [blog](https://medium.com/analytics-vidhya/building-machine-learning-model-to-predict-if-the-patient-will-be-readmitted-within-30-days-2eaed2d3669d) [code](https://github.com/rishikeshF/Diabetic_patient_readmission_rate_predictor)
 - Implemented end-to-end Machine Learning pipeline right from data cleaning to model deployment on AWS EC2
 instance, demonstrating full stack machine learning skills.
@@ -50,16 +50,16 @@ particular tweet would get based on the semantic meaning and timestamp of the tw
 - Scrapped twitter data from Justin Bieber’s twitter account and used it as the training data to predict the number of
 retweets his tweet would get.
 
-### 🎇 Core Competencies 🎇
+### 🎇 Core Competencies 
 - Python, Tensorflow 
 - Machine Learning, Deep Learning, Data Analysis
 
-### 🎨 Current work interest 🎨
+### 🎨 Current work interest 
 - Natural Lanugage Processing
 - Deep Learning
 - Machine Learning
 
-### 📩 Other profiles 📩
+### 📩 Other profiles 
 - [LinkedIn](https://www.linkedin.com/in/rishikesh-fulari/)
 - [Medium](https://medium.com/@rishikeshfulari)
 - [Hugging Face](https://huggingface.co/rishikesh)
