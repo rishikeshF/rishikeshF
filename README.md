@@ -1,4 +1,7 @@
 ### 👋 Hi there
+
+![](https://komarev.com/ghpvc/?username=rishikeshF)
+
 I am Rishikesh Fulari, am open to work on fascinating AI projects. I have been working in NLP domain for a while now, but would love to collaborate on anything relating to ML.
 
 ### 🦸‍ About me 
