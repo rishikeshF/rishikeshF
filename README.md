@@ -55,8 +55,8 @@ particular tweet would get based on the semantic meaning and timestamp of the tw
 retweets his tweet would get.
 
 ### 🎇 Core Competencies 
-- Python, Tensorflow 
-- Machine Learning, Deep Learning, Data Analysis
+- Python, Tensorflow, PyTorch
+- Machine Learning, Deep Learning, Data Analysis, Predictive Modeling, Forecasting methods
 
 ### 🎨 Current work interest 
 - Natural Lanugage Processing
