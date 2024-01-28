@@ -45,7 +45,7 @@ Streamlit as the front end framework.
 are further fed as input to text-to-speech API for reading aloud the captions. This project was made to help differently
 abled people browse the image content on the internet
 
-#### 5. Identifying duplicate questions using machine learning [demo](https://huggingface.co/spaces/rishikesh/QuestionPairSimilarityPredictor)
+#### 5. Identifying duplicate questions using machine learning [demo](https://huggingface.co/spaces/rishikesh/QuestionPairSimilarityPredictor) [code](https://github.com/rishikeshF/Quora_Question_Pair_similarity)
 - Implemented end-to-end machine learning model to predict if given two questions have the same semantic meaning.
 - Used Quora question pair similarity dataset and embeddings from pretrained model for detecting semantic similarity.
 Forums and QnA sections are often filled with duplicate entries, this project was aimed at finding those duplicate
