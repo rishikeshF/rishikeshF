@@ -10,6 +10,9 @@
 
 ### What I'm building now
 
+**⏳ [Ayuta](https://ayuta.app)** · *Ten thousand hours, one at a time.*
+A deep work timer that tracks the hours you put into each skill on the road to mastery, with streaks, milestone badges and a focus mode that nudges you off distracting apps. Built solo, end to end: product, design, Flutter app, Supabase backend, offline-first sync. In closed testing on Google Play, launching soon.
+
 | Project | What it does | Stack |
 |---|---|---|
 | [UDA-Hub](https://github.com/rishikeshF/customer_support_agent) | Multi-agent support system that escalates to a human when unsure instead of guessing | LangGraph, MCP, FAISS |
